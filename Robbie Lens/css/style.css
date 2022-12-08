@@ -1,0 +1,54 @@
+body {
+    background-color:#1F2039 ;
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+}
+a {
+    color: #242424;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Manrope', sans-serif;
+}
+span {
+    color: #A5B4FC;
+}
+h1 {
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    color: #F9F8FF;
+}
+p {
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+ul {
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+.top_bottom {
+    background-color: white;
+}
+.cta {
+    font-size: 1.0em;
+    background-color: #696484;
+    border:2px #696484 solid;
+    border-radius: 50px 50px 50px 50px;
+    color: white;
+}
+.competences{
+    border-right: 1px #A5B4FC solid;
+    border-bottom: 1px #A5B4FC solid;
+}
+a:hover {
+    text-decoration: underline;
+}
+a.cta:hover {
+    background-color:#8788BA;
+    text-decoration: none;
+}
